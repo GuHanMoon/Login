@@ -1,1 +1,1 @@
-username=linxiuyuan password=guhan123 hwid=
+username=linxiuyuan&password=guhan123
